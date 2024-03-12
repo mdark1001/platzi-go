@@ -18,5 +18,5 @@ func main() {
 		fmt.Println(counter)
 		counter--
 	}
-	
+
 }
